@@ -53,4 +53,4 @@ jobs:
           app-name: 'WetterAppJKU'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5C42654CCA364B2DA710654D932C46D8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A31F7835043457490DD0A67CA194EF7 }}
